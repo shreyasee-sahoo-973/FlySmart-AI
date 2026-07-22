@@ -1,3 +1,3 @@
 # FlySmart-AI
-An intelligent AI about booking flights
+An intelligent AI about booking flights.
 # AnIntelligentSystem
